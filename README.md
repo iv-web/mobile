@@ -7,7 +7,7 @@ Library for mobile develop.
 
 1.[Mobile开发经验沉淀](https://github.com/iv-web/mobile/issues/1)，欢迎 [Fork](https://github.com/iv-web/mobile/fork) & [Pull Request](https://github.com/iv-web/mobile/pulls) & [Issue](https://github.com/iv-web/mobile/issues)。
 +   [过往讨论](https://github.com/imweb/mobile/issues/2)
-+	[IOS7 白屏 bug](https://github.com/imweb/mobile/blob/master/docs/ios7-empty-screen.md)
++	[IOS7 白屏 bug](https://github.com/iv-web/mobile/blob/master/docs/ios7-empty-screen.md)
 +	[Android2.3 下transform失效](https://github.com/iv-web/mobile/blob/master/docs/transform-not-work-under-android23.md)
 +	[Listview 太长在手机上的性能问题](https://github.com/iv-web/mobile/blob/master/docs/listview-toolong.md)
 +	[手Q内多页面刷新](https://github.com/iv-web/mobile/blob/master/docs/multipage-refresh.md)
